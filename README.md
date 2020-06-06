@@ -1,6 +1,7 @@
 # Ecoleta
 
 Projeto construído durante o Next Level Week #01
+
 Esse projeto tem como objetivo apresentar o uso das tecnologias:
   1. [NodeJs] (https://nodejs.org), para a construção de uma aplicação back-end
   2. [React] (https://reactjs.org), para a construção de uma aplicação Web
